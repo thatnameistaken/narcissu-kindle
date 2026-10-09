@@ -13,11 +13,13 @@ AI was used in the process of making the port
 3. Restart KOReader and open Tools → More tools → Narcissu.
 
 ## Controls
-Tap the text to advance. Its a visual novel, what do you expect.
+Tap the text to advance. Its a visual novel, what do you expect.<br>
+
 Audio is supported, pair Bluetooth headphones or speakers and set volume inside Amazon's UI before opening KOReader as it isn't possible to do while in game
 
 ## Bugs 
-Audio may be finnicky
+Audio may be finnicky<br>
+
 Bluetooth occasionally disconnects
 
 ## Licensing
