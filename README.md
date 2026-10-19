@@ -7,6 +7,17 @@ English and Japanese language support, with optional furigana<br>
 
 AI was used in the process of making the port
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/902dd3eb-cb92-4c67-bad0-6c55d33a4613" width="201" /></td>
+    <td><img src="https://github.com/user-attachments/assets/a5fbd6bf-98f3-49f5-befa-286415103dcd" width="201" /></td>  
+    <td><img src="https://github.com/user-attachments/assets/174f6744-aff0-422d-b865-4375f0115402" width="201" /></td>
+    <td><img src="https://github.com/user-attachments/assets/2a2ad136-1b85-4077-b9e6-8fa27d6d61fd" width="201" /></td>
+  </tr>
+</table>
+
 ## Installation
 1. Download and extract latest zip from releases
 2. Copy narcissu.koplugin into koreader/plugins/
